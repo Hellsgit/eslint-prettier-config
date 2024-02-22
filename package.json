@@ -1,5 +1,5 @@
 {
-  "name": "@hellsgit/eslint-prettier-config",
+  "name": "eslint-prettier-config",
   "version": "1.0.0",
   "main": "prettierrc.json",
   "peerDependencies": {
